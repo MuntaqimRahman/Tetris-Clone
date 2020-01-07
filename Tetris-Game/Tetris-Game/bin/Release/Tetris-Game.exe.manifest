@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0kXxo7TP5QYBchWORs34QWBf9ptzmKT555nQ+NYHptU=</dsig:DigestValue>
+        <dsig:DigestValue>VxxfXWNkrZphlh1sAiy2EtEZYpP/4Ot+yx9RKQlw7r4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -323,13 +323,13 @@
       <dsig:DigestValue>kfnq5MbXdWrzh9GMhl6r356x+WONYRJQPfSYG7mj/go=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Tetris-Game.exe.config" size="189">
+  <file name="Tetris-Game.exe.config" size="186">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
